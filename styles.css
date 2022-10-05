@@ -1,12 +1,44 @@
 body {
-    background-color:#e0ffff;
+    background-color:#EAF6;
   }
 hr {
-  background-color: white;
+  background-color: #EAF6;
   border-style: dotted none none;
   height: 0px;
-  width: -80%;
+  width: 15%;
   zoom: 50%;
   border-color: grey;
   border-width: 9px;
+   
+}
+h1 {
+    color: #66BFBF;
+    
+}
+h1:hover {
+    background-color: grey;
+}
+h2 {
+    color: #66BFBF;
+}
+h2:hover {
+    background-color: grey;
+}
+h3 {
+    color: #66BFBF;
+}
+h3:hover {
+    background-color: grey;
+}
+label {
+    color: red;
+}
+img:hover {
+    background-color: grey;
+}
+#id1 {
+    color: red;
+}
+#id1:hover {
+    background-color: #EEF1FF;
 }
